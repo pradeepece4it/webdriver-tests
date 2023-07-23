@@ -5,5 +5,5 @@
     <classes>
       <class name="com.leaftaps.testcases.TC001_JustLogin"/>
     </classes>
-  </test> 
-</suite>
+  </test> <!-- test done -->
+</suite> <!-- test done -->
